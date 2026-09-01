@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/2110503-69CP/a4-gloryguitar#readme",
   "dependencies": {
+    "bcryptjs": "^3.0.3",
     "cookie-parser": "^1.4.7",
     "dotenv": "^17.4.2",
     "express": "^5.2.1",
